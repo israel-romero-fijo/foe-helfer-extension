@@ -1,4 +1,7 @@
 ## FoE Helper
+[Leer en español](README_es.md)
+
+
 ##### A small extension for the Online Browser-Game Forge of Empire to install in all Chromium based Browsers like Google Chrome, Opera, Chromium or Microsoft Edge and FireFox
 
 [![Translation status](http://i18n.foe-helper.com/widgets/foe-helper/-/extension/svg-badge.svg)](http://i18n.foe-helper.com/engage/foe-helper/?utm_source=widget)
